@@ -11,6 +11,6 @@ int main() {
 
 <div align="left">
   
-[portfolio](https://tomoe-portfolio.vercel.app) • [x](https://x.com/tomoe_smcln) • [links](https://linktr.ee/0xtomoe)
+[website](https://artyhq.com) • [x](https://x.com/arty_hq)
 
 </div>
